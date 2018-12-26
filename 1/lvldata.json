@@ -2,30 +2,30 @@
 "level":1,
 "hasNext":true,
 "photoby":"Artem Bali",
-"photoUrl":"https://www.pexels.com/photo/woman-wearing-gray-tank-top-holding-gray-and-black-clutch-sitting-on-bench-1022473/",
-"img1":"https://t1.picb.cc/uploads/2018/12/26/JYjDv1.jpg",
-"img2":"https://t1.picb.cc/uploads/2018/12/26/JYjzl0.jpg",
+"photoUrl":"https://www.pexels.com/photo/adult-beautiful-blue-body-566031/",
+"img1":"https://t1.picb.cc/uploads/2018/12/26/JYptuw.jpg",
+"img2":"https://t1.picb.cc/uploads/2018/12/26/JYpgYW.jpg",
 "name":"beauty girl",
 "isFinished":false,
 "diffArea":[
     {
-        "pos":{"x":321,"y":109},
+        "pos":{"x":19,"y":161},
         "r":50
     },
     {
-        "pos":{"x":263,"y":151},
+        "pos":{"x":192,"y":443},
         "r":50
     },
     {
-        "pos":{"x":173,"y":191},
+        "pos":{"x":281,"y":220},
         "r":50
     },
     {
-        "pos":{"x":334,"y":327},
+        "pos":{"x":251,"y":110},
         "r":50
     },
     {
-        "pos":{"x":39,"y":390},
+        "pos":{"x":520,"y":62},
         "r":50
     }
     ]

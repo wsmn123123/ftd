@@ -3,21 +3,25 @@
 "hasNext":true,
 "photoby":"Bambi Chen ",
 "photoUrl":"https://www.douban.com/photos/photo/2519734051",
-"img1":"https://raw.githubusercontent.com/wsmn123123/ftd/master/2/p2535137824.jpg",
-"img2":"https://raw.githubusercontent.com/wsmn123123/ftd/master/2/p2535137826.jpg",
+"img1":"https://t1.picb.cc/uploads/2018/12/26/JYpwU8.jpg",
+"img2":"https://t1.picb.cc/uploads/2018/12/26/JYpZvR.jpg",
 "name":"那些花儿",
 "isFinished":false,
 "diffArea":[
     {
-        "pos":{"x":100,"y":200},
+        "pos":{"x":473,"y":29},
         "r":50
     },
     {
-        "pos":{"x":200,"y":400},
+        "pos":{"x":416,"y":213},
         "r":50
     },
     {
-        "pos":{"x":300,"y":450},
+        "pos":{"x":189,"y":354},
+        "r":50
+    },
+    {
+        "pos":{"x":431,"y":391},
         "r":50
     }
     ]
