@@ -1,19 +1,31 @@
 {
 "level":1,
 "hasNext":true,
-"photoby":"小力子百合",
-"photoUrl":"https://www.douban.com/photos/photo/2519734051",
-"img1":"https://t1.picb.cc/uploads/2018/12/22/JDlEZK.jpg",
-"img2":"https://t1.picb.cc/uploads/2018/12/22/JDlEZK.jpg",
-"name":"希望的田野",
+"photoby":"Artem Bali",
+"photoUrl":"https://www.pexels.com/photo/woman-wearing-gray-tank-top-holding-gray-and-black-clutch-sitting-on-bench-1022473/",
+"img1":"https://t1.picb.cc/uploads/2018/12/26/JYjC7d.png",
+"img2":"https://t1.picb.cc/uploads/2018/12/26/JYjue1.png",
+"name":"beauty girl",
 "isFinished":false,
 "diffArea":[
     {
-        "pos":{"x":100,"y":200},
+        "pos":{"x":321,"y":431},
         "r":50
     },
     {
-        "pos":{"x":200,"y":400},
+        "pos":{"x":263,"y":389},
+        "r":50
+    },
+    {
+        "pos":{"x":173,"y":349},
+        "r":50
+    },
+    {
+        "pos":{"x":334,"y":213},
+        "r":50
+    },
+    {
+        "pos":{"x":39,"y":150},
         "r":50
     }
     ]
