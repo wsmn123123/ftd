@@ -1,0 +1,28 @@
+{
+"level":9,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/labrador-retriever-with-santa-hat-sitting-on-sofa-1660967/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/VynTuR.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/VynRdw.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":96,"y":422},
+        "r":80
+    },
+    {
+        "pos":{"x":144,"y":376},
+        "r":80
+    },
+    {
+        "pos":{"x":414,"y":468},
+        "r":80
+    },
+    {
+        "pos":{"x":458,"y":84},
+        "r":80
+    }
+    ]
+}

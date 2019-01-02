@@ -1,0 +1,28 @@
+{
+"level":10,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/person-holding-cup-dessert-1030848/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/Vyefkt.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/VyeZRM.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":120,"y":112},
+        "r":80
+    },
+    {
+        "pos":{"x":124,"y":376},
+        "r":80
+    },
+    {
+        "pos":{"x":116,"y":350},
+        "r":80
+    },
+    {
+        "pos":{"x":276,"y":476},
+        "r":80
+    }
+    ]
+}

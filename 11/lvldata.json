@@ -1,0 +1,28 @@
+{
+"level":11,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/icecream-on-pineapple-1343465/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/VyemWu.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/VyecIa.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":26,"y":26},
+        "r":80
+    },
+    {
+        "pos":{"x":490,"y":60},
+        "r":80
+    },
+    {
+        "pos":{"x":516,"y":336},
+        "r":80
+    },
+    {
+        "pos":{"x":284,"y":490},
+        "r":80
+    }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+"level":16,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/sunflower-and-bee-wall-painting-1573005/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/VyeXi7.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/Vye0zs.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":130,"y":358},
+        "r":80
+    },
+    {
+        "pos":{"x":294,"y":380},
+        "r":80
+    },
+    {
+        "pos":{"x":444,"y":290},
+        "r":80
+    },
+    {
+        "pos":{"x":502,"y":32},
+        "r":80
+    }
+    ]
+}

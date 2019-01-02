@@ -1,0 +1,28 @@
+{
+"level":12,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/person-holding-black-android-smartphone-861126/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/Vye1RD.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/VyeGkv.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":184,"y":340},
+        "r":80
+    },
+    {
+        "pos":{"x":286,"y":206},
+        "r":80
+    },
+    {
+        "pos":{"x":402,"y":166},
+        "r":80
+    },
+    {
+        "pos":{"x":454,"y":498},
+        "r":80
+    }
+    ]
+}

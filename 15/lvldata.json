@@ -1,0 +1,28 @@
+{
+"level":15,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/art-artistic-cabarete-color-63238/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/VyehxG.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/Vye3ty.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":10,"y":450},
+        "r":80
+    },
+    {
+        "pos":{"x":254,"y":450},
+        "r":80
+    },
+    {
+        "pos":{"x":318,"y":354},
+        "r":80
+    },
+    {
+        "pos":{"x":374,"y":290},
+        "r":80
+    }
+    ]
+}

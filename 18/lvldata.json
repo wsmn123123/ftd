@@ -1,0 +1,28 @@
+{
+"level":18,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/umbrellas-art-flying-17679/",
+"img1":"https://t1.picb.cc/uploads/2019/01/02/Vyex5t.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/02/VyeRtM.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":16,"y":476},
+        "r":80
+    },
+    {
+        "pos":{"x":32,"y":288},
+        "r":80
+    },
+    {
+        "pos":{"x":284,"y":326},
+        "r":80
+    },
+    {
+        "pos":{"x":420,"y":412},
+        "r":80
+    }
+    ]
+}

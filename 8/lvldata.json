@@ -1,6 +1,6 @@
 {
 "level":8,
-"hasNext":false,
+"hasNext":true,
 "photoby":"Bambi Chen ",
 "photoUrl":"https://www.douban.com/photos/photo/2519734051",
 "img1":"https://t1.picb.cc/uploads/2018/12/27/JdJb0y.jpg",
@@ -10,19 +10,19 @@
 "diffArea":[
     {
         "pos":{"x":93,"y":335},
-        "r":50
+        "r":60
     },
     {
         "pos":{"x":532,"y":336},
-        "r":50
+        "r":60
     },
     {
         "pos":{"x":492,"y":194},
-        "r":50
+        "r":60
     },
     {
         "pos":{"x":148,"y":168},
-        "r":50
+        "r":60
     }
     ]
 }
