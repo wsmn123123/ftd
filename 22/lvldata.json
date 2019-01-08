@@ -1,0 +1,28 @@
+{
+"level":22,
+"hasNext":true,
+"photoby":"Bambi Chen ",
+"photoUrl":"https://www.pexels.com/photo/spiral-staircase-1102913/",
+"img1":"https://t1.picb.cc/uploads/2019/01/08/Vgfi2c.jpg",
+"img2":"https://t1.picb.cc/uploads/2019/01/08/Vgf6Xj.jpg",
+"name":"那些花儿",
+"isFinished":false,
+"diffArea":[
+    {
+        "pos":{"x":182,"y":107},
+        "r":80
+    },
+    {
+        "pos":{"x":272,"y":317},
+        "r":80
+    },
+    {
+        "pos":{"x":455,"y":385},
+        "r":80
+    },
+    {
+        "pos":{"x":444,"y":140},
+        "r":80
+    }
+    ]
+}
